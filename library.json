@@ -21,7 +21,7 @@
         "type": "git",
         "url": "https://github.com/CoreX-IoT/corex-firmware"
     },
-    "version": "1.2.5",
+    "version": "1.2.6",
     "exclude": "tests",
     "examples": "examples/*/*.ino",
     "homepage": "https://corex.id",
